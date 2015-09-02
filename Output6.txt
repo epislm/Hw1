@@ -1,0 +1,31 @@
+C:\Users\episl\Desktop>java Question6
+Enter your first origin: 0,0
+Enter your first circles radius: 1
+Enter your second origin: 0,0
+Enter your second circles radius: 2
+The distance between the two circles is 0.0
+Circle one is inside Circle two
+
+C:\Users\episl\Desktop>java Question6
+Enter your first origin: 0,0
+Enter your first circles radius: 1
+Enter your second origin: 0,12
+Enter your second circles radius: 1
+The distance between the two circles is 12.0
+The circles do not touch.
+
+C:\Users\episl\Desktop>java Question6
+Enter your first origin: 0,0
+Enter your first circles radius: 3
+Enter your second origin: 0,0
+Enter your second circles radius: 1
+The distance between the two circles is 0.0
+Circle two is inside Circle one
+
+C:\Users\episl\Desktop>java Question6
+Enter your first origin: 0,0
+Enter your first circles radius: 4
+Enter your second origin: 1,2
+Enter your second circles radius: 6
+The distance between the two circles is 2.23606797749979
+The circles overlap

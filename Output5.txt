@@ -1,0 +1,29 @@
+C:\Users\episl\Desktop>java Question5
+Enter your first point: 1,2
+Enter your second point: 2,3
+Enter your third point: 3,4
+Your points are:
+A: (1,2) B: (2,3) C: (3,4)
+2.8284271247461903
+1.4142135623730951
+The triangle is a lie.
+
+C:\Users\episl\Desktop>java Question5
+Enter your first point: 3,3
+Enter your second point: 3,7
+Enter your third point: 9,3
+Your points are:
+A: (3,3) B: (3,7) C: (9,3)
+6.0
+4.0
+The triangle is a real triangle.
+
+C:\Users\episl\Desktop>java Question5
+Enter your first point: -1,1
+Enter your second point: 3,5
+Enter your third point: 3,-3
+Your points are:
+A: (-1,1) B: (3,5) C: (3,-3)
+5.656854249492381
+5.656854249492381
+The triangle is a real triangle.

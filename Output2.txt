@@ -1,0 +1,15 @@
+C:\Users\episl\Desktop>java Question2
+Enter a radius
+2
+12.566370614359172
+Enter a radius
+3
+28.274333882308138
+Enter a radius
+1
+3.141592653589793
+Enter a radius
+3
+28.274333882308138
+Enter a radius
+^D
